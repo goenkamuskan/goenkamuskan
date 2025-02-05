@@ -1,6 +1,6 @@
 <table>
   <td>
-    
+    <img style = "width: 520px; height: 340px; align: left" src = "https://github.com/goenkamuskan/goenkamuskan/blob/main/github.gif" />
   </td>
   <td>
 <h1 align="center">Hi 👋, I'm Muskan Goenka</h1>
